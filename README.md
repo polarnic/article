@@ -1,3 +1,4 @@
+## Кодгайд
 * [Принципы написания однородного CSS-кода](https://github.com/necolas/idiomatic-css/blob/master/translations/ru-RU/README.md) 
 * [Airbnb CSS / Sass Styleguide -Наиболее разумный подход к написанию CSS и Sass](https://github.com/rtplv/airbnb-css-ru)
 * Руководство по оформлению HTML/CSS кода от [Google](https://habr.com/post/143452/), [Академии HTML](http://codeguide.academy/html-css.html), [@mdo](http://sadcitizen.me/code-guide/), [Стили кода Нетологии](https://netology-university.bitbucket.io/codestyle/)
@@ -21,17 +22,29 @@
 * [CSS-Tricks](https://css-tricks.com) - Содержит множество трюков и техник CSS.
 * [Nettuts+](http://net.tutsplus.com/) - туториалы о веб разработке
 * [W3Schools](https://www.w3schools.com) - туториалы по HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX и XML.
+
 ## Верстка
 * [Normalize.css](http://necolas.github.io/normalize.css/) - небольшой CSS-файл, который обеспечивает для HTML-элементов лучшую кроссбраузерность в стилях по умолчанию. 
 * [Способы организации CSS-кода](https://habr.com/post/256109/) 
 * * [БЭМ](https://ru.bem.info/), [OOCSS](http://oocss.org/), [SMACSS](https://smacss.com/), [Atomic CSS](https://acss.io/), [MCSS](https://operatino.github.io/MCSS/), [AMCSS](https://amcss.github.io/)
 * [psdrepo](https://psdrepo.com/tag/free-psd-website-templates/) - psd  макеты 
 * [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com) 
+
 ## Препроцессоры
 * [документация less](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/)
 * [документация sass](https://sass-scss.ru/documentation/)
 * [Sass Гайдлайн](https://sass-guidelin.es/ru/)
 * html препроцессоры - [Pug](https://pugjs.org/api/getting-started.html), [Slim](https://slim-lang.com/), [Handlebars.js](http://handlebarsjs.com/), [Haml](https://haml.info/), [Macdom](https://machy8.github.io/Macdom/)
 * css препроцессоры - [Stylus](http://stylus-lang.com/), [Sass](https://sass-scss.ru/), [Less](http://lesscss.org/), [PostCSS](https://postcss.org/)
+
 ## Git 
 [Git book](https://git-scm.com/book/ru/v1)
+
+##Книги
+
+<img src="https://raw.githubusercontent.com/karmazzin/eloquentjavascript_ru/master/cover.jpg" width="350px">
+
+[Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/)
+
+
+
