@@ -34,4 +34,4 @@
 * html препроцессоры - [Pug](https://pugjs.org/api/getting-started.html), [Slim](https://slim-lang.com/), [Handlebars.js](http://handlebarsjs.com/), [Haml](https://haml.info/), [Macdom](https://machy8.github.io/Macdom/)
 * css препроцессоры - [Stylus](http://stylus-lang.com/), [Sass](https://sass-scss.ru/), [Less](http://lesscss.org/), [PostCSS](https://postcss.org/)
 ## Git 
-[Git book[(https://git-scm.com/book/ru/v1)
+[Git book](https://git-scm.com/book/ru/v1)
