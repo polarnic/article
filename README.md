@@ -1,4 +1,6 @@
 ## Кодгайд
+* [Большой список стайлгайдов](https://css-tricks.com/css-style-guides/)
+* [CSS Guidelines](https://cssguidelin.es/#disclaimers)
 * [Принципы написания однородного CSS-кода](https://github.com/necolas/idiomatic-css/blob/master/translations/ru-RU/README.md) 
 * [Airbnb CSS / Sass Styleguide -Наиболее разумный подход к написанию CSS и Sass](https://github.com/rtplv/airbnb-css-ru)
 * Руководство по оформлению HTML/CSS кода от [Google](https://habr.com/post/143452/), [Академии HTML](http://codeguide.academy/html-css.html), [@mdo](http://sadcitizen.me/code-guide/), [Стили кода Нетологии](https://netology-university.bitbucket.io/codestyle/)
