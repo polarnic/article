@@ -7,3 +7,6 @@
 * [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 * [Шпаргалка по шпаргалке по Flexbox](http://css-live.ru/articles-css/shpargalka-po-shpargalke-po-flexbox.html)
 
+## Полезные сайты для изучения css
+
+* [webref.ru](https://webref.ru) и [htmlbook.ru](http://htmlbook.ru) - самоучители и справочники html и css
