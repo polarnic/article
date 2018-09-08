@@ -10,6 +10,7 @@
 ## Полезные сайты для изучения css
 
 * [webref.ru](https://webref.ru) и [htmlbook.ru](http://htmlbook.ru) - самоучители и справочники html и css
+* [learn.javascript.ru](https://learn.javascript.ru) - самоучители и справочники по javascript
 * [css-live.ru](http://css-live.ru) - туториалы о веб разработке
 * [developer.mozilla.org](https://developer.mozilla.org/ru/docs/Web) - документация веб-стандартов и проектов Mozilla
 * [www.w3.org](https://www.w3.org/Style/CSS/learning.ru.html) - Статьи и руководства по HTML и CSS
