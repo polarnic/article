@@ -40,7 +40,7 @@
 * css препроцессоры - [Stylus](http://stylus-lang.com/), [Sass](https://sass-scss.ru/), [Less](http://lesscss.org/), [PostCSS](https://postcss.org/)
 
 ## Инструменты сборки и автоматизации
-[Webpack](https://webpack.js.org/),[Grunt](https://gruntjs.com/), [Gulp](https://gulpjs.com/), [Browserify](http://browserify.org/), [Brunch.io](http://brunch.io/), [Yeoman](http://yeoman.io/)
+* [Webpack](https://webpack.js.org/), [Grunt](https://gruntjs.com/), [Gulp](https://gulpjs.com/), [Browserify](http://browserify.org/), * [Brunch.io](http://brunch.io/), [Yeoman](http://yeoman.io/)
 
 ## Инструменты управления пакетами и зависимостями
 * [Bower](https://bower.io/), [Npm](https://www.npmjs.com/),[Yarn](https://yarnpkg.com/)  
