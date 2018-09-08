@@ -21,5 +21,6 @@
 * [Nettuts+](http://net.tutsplus.com/) - туториалы о веб разработке
 * [W3Schools](https://www.w3schools.com) - туториалы по HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX и XML.
 ## Верстка
+* [Normalize.css](http://necolas.github.io/normalize.css/) - небольшой CSS-файл, который обеспечивает для HTML-элементов лучшую кроссбраузерность в стилях по умолчанию. 
 * [psdrepo](https://psdrepo.com/tag/free-psd-website-templates/) - psd  макеты 
 * [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com) 
