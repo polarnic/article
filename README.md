@@ -27,6 +27,9 @@
 * [psdrepo](https://psdrepo.com/tag/free-psd-website-templates/) - psd  макеты 
 * [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com) 
 ## Препроцессоры
+* [документация less](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/)
+* [документация sass](https://sass-scss.ru/documentation/)
+* [Sass Гайдлайн](https://sass-guidelin.es/ru/)
 * html препроцессоры - [Pug](https://pugjs.org/api/getting-started.html), [Slim](https://slim-lang.com/), [Handlebars.js](http://handlebarsjs.com/), [Haml](https://haml.info/), [Macdom](https://machy8.github.io/Macdom/)
 * css препроцессоры - [Stylus](http://stylus-lang.com/), [Sass](https://sass-scss.ru/), [Less](http://lesscss.org/), [PostCSS](https://postcss.org/)
 
