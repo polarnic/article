@@ -20,3 +20,6 @@
 * [CSS-Tricks](https://css-tricks.com) - Содержит множество трюков и техник CSS.
 * [Nettuts+](http://net.tutsplus.com/) - туториалы о веб разработке
 * [W3Schools](https://www.w3schools.com) - туториалы по HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX и XML.
+## Верстка
+* [psdrepo](https://psdrepo.com/tag/free-psd-website-templates/) - psd  макеты 
+* [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com) 
