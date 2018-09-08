@@ -20,7 +20,7 @@
 * [css-live.ru](http://css-live.ru) - туториалы о веб разработке
 * [Frontender Magazine](https://frontender.infohttps://frontender.info)  — русскоязычный журнал посвященный фронтенду
 * [developer.mozilla.org](https://developer.mozilla.org/ru/docs/Web) - документация веб-стандартов и проектов Mozilla
-* [www.w3.org](https://www.w3.org/Style/CSS/learning.ru.html) - Статьи и руководства по HTML и CSS
+* [www.w3.org/ru](https://www.w3.org/Style/CSS/learning.ru.html) - Статьи и руководства по HTML и CSS
 * [CSS-Tricks](https://css-tricks.com) - Содержит множество трюков и техник CSS.
 * [Nettuts+](http://net.tutsplus.com/) - туториалы о веб разработке
 * [W3Schools](https://www.w3schools.com) - туториалы по HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX и XML.
