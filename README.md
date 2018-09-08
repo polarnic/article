@@ -1,5 +1,6 @@
 * [Принципы написания однородного CSS-кода](https://github.com/necolas/idiomatic-css/blob/master/translations/ru-RU/README.md) 
-* Руководство по оформлению HTML/CSS кода от [Google](https://habr.com/post/143452/), [Академии HTML](http://codeguide.academy/html-css.html), [@mdo](http://sadcitizen.me/code-guide/)
+* [Airbnb CSS / Sass Styleguide -Наиболее разумный подход к написанию CSS и Sass](https://github.com/rtplv/airbnb-css-ru)
+* Руководство по оформлению HTML/CSS кода от [Google](https://habr.com/post/143452/), [Академии HTML](http://codeguide.academy/html-css.html), [@mdo](http://sadcitizen.me/code-guide/), [Стили кода Нетологии](https://netology-university.bitbucket.io/codestyle/)
 * [30 CSS селекторов, которые вы должны запомнить](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Изучение CSS Разметки](http://ru.learnlayout.com/)
 * [9 основных принципов отзывчивого веб-дизайна](https://habr.com/post/243247)
@@ -32,4 +33,5 @@
 * [Sass Гайдлайн](https://sass-guidelin.es/ru/)
 * html препроцессоры - [Pug](https://pugjs.org/api/getting-started.html), [Slim](https://slim-lang.com/), [Handlebars.js](http://handlebarsjs.com/), [Haml](https://haml.info/), [Macdom](https://machy8.github.io/Macdom/)
 * css препроцессоры - [Stylus](http://stylus-lang.com/), [Sass](https://sass-scss.ru/), [Less](http://lesscss.org/), [PostCSS](https://postcss.org/)
-
+## Git 
+[Git book[(https://git-scm.com/book/ru/v1)
