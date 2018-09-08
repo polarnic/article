@@ -1,3 +1,4 @@
+* [Принципы написания однородного CSS-кода](https://github.com/necolas/idiomatic-css/blob/master/translations/ru-RU/README.md) 
 * Руководство по оформлению HTML/CSS кода от [Google](https://habr.com/post/143452/), [Академии HTML](http://codeguide.academy/html-css.html), [@mdo](http://sadcitizen.me/code-guide/)
 * [30 CSS селекторов, которые вы должны запомнить](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Изучение CSS Разметки](http://ru.learnlayout.com/)
