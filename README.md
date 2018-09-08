@@ -40,7 +40,7 @@
 ## Git 
 [Git book](https://git-scm.com/book/ru/v1)
 
-##Книги
+## Книги
 
 <img src="https://raw.githubusercontent.com/karmazzin/eloquentjavascript_ru/master/cover.jpg" width="350px">
 
