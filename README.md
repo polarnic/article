@@ -12,7 +12,6 @@
 * [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 * [Шпаргалка по шпаргалке по Flexbox](http://css-live.ru/articles-css/shpargalka-po-shpargalke-po-flexbox.html)
 * [Полное руководство по Flexbox](https://frontender.info/a-guide-to-flexbox/) 
-
 ## Полезные сайты для изучения css
 * [w3.org](http://www.w3.org) - Консорциум Всемирной паутины (англ. World Wide Web Consortium, W3C) — организация, разрабатывающая и внедряющая технологические стандарты для Всемирной паутины.
 * [webref.ru](https://webref.ru) и [htmlbook.ru](http://htmlbook.ru) - самоучители и справочники html и css
