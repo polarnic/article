@@ -38,13 +38,23 @@
 * html препроцессоры - [Pug](https://pugjs.org/api/getting-started.html), [Slim](https://slim-lang.com/), [Handlebars.js](http://handlebarsjs.com/), [Haml](https://haml.info/), [Macdom](https://machy8.github.io/Macdom/)
 * css препроцессоры - [Stylus](http://stylus-lang.com/), [Sass](https://sass-scss.ru/), [Less](http://lesscss.org/), [PostCSS](https://postcss.org/)
 
+## Nodejs
+* [Скринкаст NODE.JS](https://learn.javascript.ru/screencast/nodejs)
+## React.js
+* [Скринкаст React](https://learn.javascript.ru/screencast/react)
+## Angular
+* [Скринкаст по Angular](https://learn.javascript.ru/screencast/angular)
+
 ## Инструменты сборки и автоматизации
 * [Webpack](https://webpack.js.org/), [Grunt](https://gruntjs.com/), [Gulp](https://gulpjs.com/), [Browserify](http://browserify.org/), * [Brunch.io](http://brunch.io/), [Yeoman](http://yeoman.io/)
+* [Скринкаст по Gulp](https://learn.javascript.ru/screencast/gulp)
+* [Скринкаст WEBPACK](https://learn.javascript.ru/screencast/webpack)
 
 ## Инструменты управления пакетами и зависимостями
-* [Bower](https://bower.io/), [Npm](https://www.npmjs.com/),[Yarn](https://yarnpkg.com/)  
+* [Bower](https://bower.io/), [Npm](https://www.npmjs.com/),[Yarn](https://yarnpkg.com/)
 ## Git 
 [Git book](https://git-scm.com/book/ru/v1)
+[https://learn.javascript.ru/screencast/git](https://learn.javascript.ru/screencast/git)
 
 ## Книги
 
