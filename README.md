@@ -68,6 +68,10 @@
 * [Git book](https://git-scm.com/book/ru/v1)
 * [Pro Git, второе издание](https://github.com/progit/progit2-ru)
 * [Скринкаст по Git](https://learn.javascript.ru/screencast/git)
+## Jekyll
+
+* [Как завести блог на Jekyll](https://guides.hexlet.io/jekyll/#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-jekyll-%D0%BD%D0%B0-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%83)
+* [Создаем блог используя Jekyll и GitHub Pages](https://frontender.info/build-blog-jekyll-github-pages/)
 
 ## Книги
 
@@ -75,8 +79,5 @@
 
 [Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/)
 
-##Jekyll
 
-* [Как завести блог на Jekyll](https://guides.hexlet.io/jekyll/#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-jekyll-%D0%BD%D0%B0-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%83)
-* [Создаем блог используя Jekyll и GitHub Pages](https://frontender.info/build-blog-jekyll-github-pages/)
 
