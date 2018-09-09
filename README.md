@@ -22,7 +22,8 @@
 * [www.w3.org/ru](https://www.w3.org/Style/CSS/learning.ru.html) - Статьи и руководства по HTML и CSS
 * [CSS-Tricks](https://css-tricks.com) - Содержит множество трюков и техник CSS.
 * [Nettuts+](http://net.tutsplus.com/) - туториалы о веб разработке
-* [W3Schools](https://www.w3schools.com) - туториалы по HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX и XML.
+* [W3Schools](https://www.w3schools.com) - туториалы по HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX и XML.)
+* [smashingmagazine](https://www.smashingmagazine.com/), [alistapart](https://alistapart.com/)
 
 ## Верстка
 * [Normalize.css](http://necolas.github.io/normalize.css/) - небольшой CSS-файл, который обеспечивает для HTML-элементов лучшую кроссбраузерность в стилях по умолчанию. 
