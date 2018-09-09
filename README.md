@@ -30,7 +30,12 @@
 * [Способы организации CSS-кода](https://habr.com/post/256109/) 
 * * [БЭМ](https://ru.bem.info/), [OOCSS](http://oocss.org/), [SMACSS](https://smacss.com/), [Atomic CSS](https://acss.io/), [MCSS](https://operatino.github.io/MCSS/), [AMCSS](https://amcss.github.io/)
 * psd / html: [freewebtemplates.com](https://www.freewebtemplates.com), [html5up.net](https://html5up.net/), [templatemag](https://templatemag.com/), [designmodo.com](https://designmodo.com/freebies/), [psdrepo](https://psdrepo.com/tag/free-psd-website-templates/), [freebiesbug](https://freebiesbug.com/), [ru.365psd.com](https://ru.365psd.com/), [downloadpsd.cc](https://downloadpsd.cc/), [freepik.com](https://www.freepik.com/free-psd/web-templates), [ui-cloud.com](http://ui-cloud.com/browse/), [psdblast.com](http://psdblast.com)
-* [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com), 
+* [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com)
+
+## Верстка писем
+* [Верстка email рассылок от А до Я для чайников](https://habr.com/post/252279/)
+* [How-to: Правила вёрстки email-писем](https://habr.com/company/pechkin/blog/255819/)
+* [Основы профессиональной верстки электронных писем](https://habr.com/post/180013/)
 
 ## Препроцессоры
 * [документация less](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/)
@@ -54,7 +59,13 @@
 ## Инструменты управления пакетами и зависимостями
 * [Bower](https://bower.io/), [Npm](https://www.npmjs.com/),[Yarn](https://yarnpkg.com/)
 ## Git 
+[Github Tutorial](https://try.github.io/)
+[Git How To](https://githowto.com/)
+[Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+[Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/tree/master/git)
+[Коллекция часто задаваемых вопросов по Git с возможностью поиска](http://firstaidgit.ru/#/)
 [Git book](https://git-scm.com/book/ru/v1)
+[Pro Git, второе издание](https://github.com/progit/progit2-ru)
 [https://learn.javascript.ru/screencast/git](https://learn.javascript.ru/screencast/git)
 
 ## Книги
