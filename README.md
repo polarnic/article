@@ -29,9 +29,8 @@
 * [Normalize.css](http://necolas.github.io/normalize.css/) - небольшой CSS-файл, который обеспечивает для HTML-элементов лучшую кроссбраузерность в стилях по умолчанию. 
 * [Способы организации CSS-кода](https://habr.com/post/256109/) 
 * * [БЭМ](https://ru.bem.info/), [OOCSS](http://oocss.org/), [SMACSS](https://smacss.com/), [Atomic CSS](https://acss.io/), [MCSS](https://operatino.github.io/MCSS/), [AMCSS](https://amcss.github.io/)
-* [psdrepo](https://psdrepo.com/tag/free-psd-website-templates/) - psd  макеты 
-* html шаблоны - [freewebtemplates.com](https://www.freewebtemplates.com, [html5up.net](https://html5up.net/), [templatemag](https://templatemag.com/), 
-* [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com) 
+* psd / html: [freewebtemplates.com](https://www.freewebtemplates.com), [html5up.net](https://html5up.net/), [templatemag](https://templatemag.com/), [designmodo.com](https://designmodo.com/freebies/), [psdrepo](https://psdrepo.com/tag/free-psd-website-templates/), [freebiesbug](https://freebiesbug.com/), [ru.365psd.com](https://ru.365psd.com/), [downloadpsd.cc](https://downloadpsd.cc/), [freepik.com](https://www.freepik.com/free-psd/web-templates), [ui-cloud.com](http://ui-cloud.com/browse/), [psdblast.com](http://psdblast.com)
+* [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com), 
 
 ## Препроцессоры
 * [документация less](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/)
