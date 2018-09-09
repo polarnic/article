@@ -32,6 +32,7 @@
 * psd / html: [freewebtemplates.com](https://www.freewebtemplates.com), [html5up.net](https://html5up.net/), [templatemag](https://templatemag.com/), [designmodo.com](https://designmodo.com/freebies/), [psdrepo](https://psdrepo.com/tag/free-psd-website-templates/), [freebiesbug](https://freebiesbug.com/), [ru.365psd.com](https://ru.365psd.com/), [downloadpsd.cc](https://downloadpsd.cc/), [freepik.com](https://www.freepik.com/free-psd/web-templates), [ui-cloud.com](http://ui-cloud.com/browse/), [psdblast.com](http://psdblast.com)
 * [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com)
 * [Все о свойстве border](https://habr.com/post/141658/)
+* [Антигерой CSS-разметки — свойство «display: table»](https://htmlacademy.ru/blog/29-display-table-anti-hero)
 ## Верстка писем
 * [Верстка email рассылок от А до Я для чайников](https://habr.com/post/252279/)
 * [How-to: Правила вёрстки email-писем](https://habr.com/company/pechkin/blog/255819/)
@@ -39,6 +40,8 @@
 
 ## SEO
 * [Schema.org](https://schema.org/) — это совместная инициатива по разработке единой схемы для семантической разметки в HTML5. Инициатива была запущена второго июня 2011 года создателями крупнейших поисковых систем — компаниями Google, Yahoo!
+* [Оптимизация сайта с помощью seo-чеклиста](https://devaka.ru/articles/seo-checklist)
+* [SEO чеклист](https://www.seochecklist.ru/)
 
 ## Препроцессоры
 * [документация less](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/)
@@ -54,8 +57,6 @@
 * [Скринкаст React](https://learn.javascript.ru/screencast/react)
 ## Angular
 * [Скринкаст по Angular](https://learn.javascript.ru/screencast/angular)
-## PHP
-[PHP правильный путь.](http://getjump.github.io/ru-php-the-right-way/#%D0%98%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
 
 ## Инструменты сборки и автоматизации
 * [Webpack](https://webpack.js.org/), [Grunt](https://gruntjs.com/), [Gulp](https://gulpjs.com/), [Browserify](http://browserify.org/), * [Brunch.io](http://brunch.io/), [Yeoman](http://yeoman.io/)
@@ -80,9 +81,8 @@
 
 ## Книги
 
-<img src="https://raw.githubusercontent.com/karmazzin/eloquentjavascript_ru/master/cover.jpg" width="350px">
-
-[Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/)
-
+* [Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/)
+* [Мега-Учебник Flask, Часть 1: Привет, Мир!](https://habr.com/post/193242/)
+* [PHP правильный путь.](http://getjump.github.io/ru-php-the-right-way/#%D0%98%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
 
 
