@@ -60,14 +60,14 @@
 ## Инструменты управления пакетами и зависимостями
 * [Bower](https://bower.io/), [Npm](https://www.npmjs.com/),[Yarn](https://yarnpkg.com/)
 ## Git 
-[Github Tutorial](https://try.github.io/)
-[Git How To](https://githowto.com/)
-[Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
-[Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/tree/master/git)
-[Коллекция часто задаваемых вопросов по Git с возможностью поиска](http://firstaidgit.ru/#/)
-[Git book](https://git-scm.com/book/ru/v1)
-[Pro Git, второе издание](https://github.com/progit/progit2-ru)
-[https://learn.javascript.ru/screencast/git](https://learn.javascript.ru/screencast/git)
+* [Github Tutorial](https://try.github.io/)
+* [Git How To](https://githowto.com/)
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+* [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/tree/master/git)
+* [Коллекция часто задаваемых вопросов по Git с возможностью поиска](http://firstaidgit.ru/#/)
+* [Git book](https://git-scm.com/book/ru/v1)
+* [Pro Git, второе издание](https://github.com/progit/progit2-ru)
+* [Скринкаст по Git](https://learn.javascript.ru/screencast/git)
 
 ## Книги
 
@@ -75,5 +75,8 @@
 
 [Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/)
 
+##Jekyll
 
+* [Как завести блог на Jekyll](https://guides.hexlet.io/jekyll/#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-jekyll-%D0%BD%D0%B0-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%83)
+* [Создаем блог используя Jekyll и GitHub Pages](https://frontender.info/build-blog-jekyll-github-pages/)
 
