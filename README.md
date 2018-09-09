@@ -46,6 +46,7 @@
 
 ## Nodejs
 * [Скринкаст NODE.JS](https://learn.javascript.ru/screencast/nodejs)
+* [Русская документация для Node.js](https://github.com/kurokikaze/nodejs-docs-rus)
 ## React.js
 * [Скринкаст React](https://learn.javascript.ru/screencast/react)
 ## Angular
