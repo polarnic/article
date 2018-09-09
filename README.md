@@ -31,11 +31,14 @@
 * * [БЭМ](https://ru.bem.info/), [OOCSS](http://oocss.org/), [SMACSS](https://smacss.com/), [Atomic CSS](https://acss.io/), [MCSS](https://operatino.github.io/MCSS/), [AMCSS](https://amcss.github.io/)
 * psd / html: [freewebtemplates.com](https://www.freewebtemplates.com), [html5up.net](https://html5up.net/), [templatemag](https://templatemag.com/), [designmodo.com](https://designmodo.com/freebies/), [psdrepo](https://psdrepo.com/tag/free-psd-website-templates/), [freebiesbug](https://freebiesbug.com/), [ru.365psd.com](https://ru.365psd.com/), [downloadpsd.cc](https://downloadpsd.cc/), [freepik.com](https://www.freepik.com/free-psd/web-templates), [ui-cloud.com](http://ui-cloud.com/browse/), [psdblast.com](http://psdblast.com)
 * [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com)
-
+* [Все о свойстве border](https://habr.com/post/141658/)
 ## Верстка писем
 * [Верстка email рассылок от А до Я для чайников](https://habr.com/post/252279/)
 * [How-to: Правила вёрстки email-писем](https://habr.com/company/pechkin/blog/255819/)
 * [Основы профессиональной верстки электронных писем](https://habr.com/post/180013/)
+
+## SEO
+* [Schema.org](https://schema.org/) — это совместная инициатива по разработке единой схемы для семантической разметки в HTML5. Инициатива была запущена второго июня 2011 года создателями крупнейших поисковых систем — компаниями Google, Yahoo!
 
 ## Препроцессоры
 * [документация less](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/)
@@ -51,6 +54,8 @@
 * [Скринкаст React](https://learn.javascript.ru/screencast/react)
 ## Angular
 * [Скринкаст по Angular](https://learn.javascript.ru/screencast/angular)
+## PHP
+[PHP правильный путь.](http://getjump.github.io/ru-php-the-right-way/#%D0%98%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
 
 ## Инструменты сборки и автоматизации
 * [Webpack](https://webpack.js.org/), [Grunt](https://gruntjs.com/), [Gulp](https://gulpjs.com/), [Browserify](http://browserify.org/), * [Brunch.io](http://brunch.io/), [Yeoman](http://yeoman.io/)
