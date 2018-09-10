@@ -33,6 +33,7 @@
 * [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com)
 * [Все о свойстве border](https://habr.com/post/141658/)
 * [Антигерой CSS-разметки — свойство «display: table»](https://htmlacademy.ru/blog/29-display-table-anti-hero)
+* [Grid by Example - Коллекция примеров использования и видео уроки](https://gridbyexample.com/examples/)
 ## Верстка писем
 * [Верстка email рассылок от А до Я для чайников](https://habr.com/post/252279/)
 * [How-to: Правила вёрстки email-писем](https://habr.com/company/pechkin/blog/255819/)
