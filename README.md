@@ -34,6 +34,9 @@
 * [Все о свойстве border](https://habr.com/post/141658/)
 * [Антигерой CSS-разметки — свойство «display: table»](https://htmlacademy.ru/blog/29-display-table-anti-hero)
 * [Grid by Example - Коллекция примеров использования и видео уроки](https://gridbyexample.com/examples/)
+* [Полное руководство по CSS Grid](https://tuhub.ru/posts/css-grid-complete-guide)
+* [Как работает Flexbox - объясняем на больших, красочных GIF'ках](https://tuhub.ru/posts/kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gifkah)
+* [Ещё больше о том как работает Flexbox — объясняем на больших, красочных GIF’ках](https://tuhub.ru/posts/eshhyo-bolshe-o-tom-kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gif-kah)
 ### photoshop
 * [Фотошоп для верстальщика](https://htmlacademy.ru/blog/51-photoshop-for-the-coders)
 * [Фотошоп для верстальщика-видео](https://www.youtube.com/watch?v=xXv93EpWeyA&list=PLqZTjT2Z9HyJfnApkpKEOJCZdXY_EbDWD&index=1)
