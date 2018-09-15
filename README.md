@@ -34,10 +34,14 @@
 * [Все о свойстве border](https://habr.com/post/141658/)
 * [Антигерой CSS-разметки — свойство «display: table»](https://htmlacademy.ru/blog/29-display-table-anti-hero)
 * [Grid by Example - Коллекция примеров использования и видео уроки](https://gridbyexample.com/examples/)
+### photoshop
+* [Фотошоп для верстальщика](https://htmlacademy.ru/blog/51-photoshop-for-the-coders)
+* [Фотошоп для верстальщика-видео](https://www.youtube.com/watch?v=xXv93EpWeyA&list=PLqZTjT2Z9HyJfnApkpKEOJCZdXY_EbDWD&index=1)
 ## Верстка писем
 * [Верстка email рассылок от А до Я для чайников](https://habr.com/post/252279/)
 * [How-to: Правила вёрстки email-писем](https://habr.com/company/pechkin/blog/255819/)
 * [Основы профессиональной верстки электронных писем](https://habr.com/post/180013/)
+
 
 ## SEO
 * [Schema.org](https://schema.org/) — это совместная инициатива по разработке единой схемы для семантической разметки в HTML5. Инициатива была запущена второго июня 2011 года создателями крупнейших поисковых систем — компаниями Google, Yahoo!
