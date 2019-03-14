@@ -31,6 +31,7 @@
 * [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com)
 * [Все о свойстве border](https://habr.com/post/141658/)
 * [Антигерой CSS-разметки — свойство «display: table»](https://htmlacademy.ru/blog/29-display-table-anti-hero)
+* [https://yoksel.github.io/easy-css/](Простой CSS)
 ### Flexbox
 * [Как работает Flexbox - объясняем на больших, красочных GIF'ках](https://tuhub.ru/posts/kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gifkah)
 * [Ещё больше о том как работает Flexbox — объясняем на больших, красочных GIF’ках](https://tuhub.ru/posts/eshhyo-bolshe-o-tom-kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gif-kah)
