@@ -35,7 +35,8 @@
 * [Антигерой CSS-разметки — свойство «display: table»](https://htmlacademy.ru/blog/29-display-table-anti-hero)
 * [Как работает Flexbox - объясняем на больших, красочных GIF'ках](https://tuhub.ru/posts/kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gifkah)
 * [Ещё больше о том как работает Flexbox — объясняем на больших, красочных GIF’ках](https://tuhub.ru/posts/eshhyo-bolshe-o-tom-kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gif-kah)
-* [демо-сайт по flexbox](https://yoksel.github.io/flex-cheatsheet/#display)
+* [Демо-сайт по flexbox](https://yoksel.github.io/flex-cheatsheet/#display)
+* [Полное руковдство **FLEXBOX**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 ### CSS Grid
 * [Grid by Example - Коллекция примеров использования и видео уроки](https://gridbyexample.com/examples/)
 * [Полное руководство по CSS Grid](https://tuhub.ru/posts/css-grid-complete-guide)
