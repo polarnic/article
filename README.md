@@ -35,12 +35,13 @@
 * [Антигерой CSS-разметки — свойство «display: table»](https://htmlacademy.ru/blog/29-display-table-anti-hero)
 * [Как работает Flexbox - объясняем на больших, красочных GIF'ках](https://tuhub.ru/posts/kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gifkah)
 * [Ещё больше о том как работает Flexbox — объясняем на больших, красочных GIF’ках](https://tuhub.ru/posts/eshhyo-bolshe-o-tom-kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gif-kah)
+* [демо-сайт по flexbox](https://yoksel.github.io/flex-cheatsheet/#display)
 ### CSS Grid
 * [Grid by Example - Коллекция примеров использования и видео уроки](https://gridbyexample.com/examples/)
 * [Полное руководство по CSS Grid](https://tuhub.ru/posts/css-grid-complete-guide)
 * [Большая статья про гриды (CSS Grid Layout)](http://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html)
 * [CSS Grid is a two-dimensional layout system created specifically to tackle grid-based user interfaces on the web.](https://tympanus.net/codrops/css_reference/grid/)
-*[CSS Grid Layout](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout#%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0)
+* [CSS Grid Layout](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout#%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0)
 
 
 ### photoshop
