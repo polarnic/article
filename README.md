@@ -10,8 +10,6 @@
 * [Типы адаптивных макетов](https://habr.com/post/158703/)
 * [Документация по всему, что может располагаться в теге < head > вашего документа](https://github.com/Konfuze/HEAD)
 * [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
-* [Шпаргалка по шпаргалке по Flexbox](http://css-live.ru/articles-css/shpargalka-po-shpargalke-po-flexbox.html)
-* [Полное руководство по Flexbox](https://frontender.info/a-guide-to-flexbox/) 
 ## Полезные сайты для изучения css
 * [w3.org](http://www.w3.org) - Консорциум Всемирной паутины (англ. World Wide Web Consortium, W3C) — организация, разрабатывающая и внедряющая технологические стандарты для Всемирной паутины.
 * [webref.ru](https://webref.ru) и [htmlbook.ru](http://htmlbook.ru) - самоучители и справочники html и css
@@ -33,10 +31,13 @@
 * [Стартовый шаблон HTML5 Boilerplate](https://html5boilerplate.com)
 * [Все о свойстве border](https://habr.com/post/141658/)
 * [Антигерой CSS-разметки — свойство «display: table»](https://htmlacademy.ru/blog/29-display-table-anti-hero)
+### Flexbox
 * [Как работает Flexbox - объясняем на больших, красочных GIF'ках](https://tuhub.ru/posts/kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gifkah)
 * [Ещё больше о том как работает Flexbox — объясняем на больших, красочных GIF’ках](https://tuhub.ru/posts/eshhyo-bolshe-o-tom-kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gif-kah)
 * [Демо-сайт по flexbox](https://yoksel.github.io/flex-cheatsheet/#display)
 * [Полное руковдство **FLEXBOX**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Шпаргалка по шпаргалке по Flexbox](http://css-live.ru/articles-css/shpargalka-po-shpargalke-po-flexbox.html)
+* [Полное руководство по Flexbox](https://frontender.info/a-guide-to-flexbox/) 
 ### CSS Grid
 * [Grid by Example - Коллекция примеров использования и видео уроки](https://gridbyexample.com/examples/)
 * [Полное руководство по CSS Grid](https://tuhub.ru/posts/css-grid-complete-guide)
