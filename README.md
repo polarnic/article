@@ -38,6 +38,7 @@
 * [Полное руковдство **FLEXBOX**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Шпаргалка по шпаргалке по Flexbox](http://css-live.ru/articles-css/shpargalka-po-shpargalke-po-flexbox.html)
 * [Полное руководство по Flexbox](https://frontender.info/a-guide-to-flexbox/) 
+* [FLEXBOX FROGGY игра с flebox](http://flexboxfroggy.com/#ru)
 ### CSS Grid
 * [Grid by Example - Коллекция примеров использования и видео уроки](https://gridbyexample.com/examples/)
 * [Полное руководство по CSS Grid](https://tuhub.ru/posts/css-grid-complete-guide)
