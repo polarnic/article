@@ -21,8 +21,7 @@
 * [CSS-Tricks](https://css-tricks.com) - Содержит множество трюков и техник CSS.
 * [Nettuts+](http://net.tutsplus.com/) - туториалы о веб разработке
 * [W3Schools](https://www.w3schools.com) - туториалы по HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX и XML.)
-* [smashingmagazine](https://www.smashingmagazine.com/), [alistapart](https://alistapart.com/), [quackit](https://www.quackit.com/)
- - Free web development/design tutorials. Includes CSS, Javascript, AJAX, ColdFusion, and HTML tutorials, code examples, layout help and references. Complete ..
+* [smashingmagazine](https://www.smashingmagazine.com/), [alistapart](https://alistapart.com/), [quackit](https://www.quackit.com/)- Free web development/design tutorials. Includes CSS, Javascript, AJAX, ColdFusion, and HTML tutorials, code examples, layout help and references. Complete ..
 
 ## Верстка
 * [Normalize.css](http://necolas.github.io/normalize.css/) - небольшой CSS-файл, который обеспечивает для HTML-элементов лучшую кроссбраузерность в стилях по умолчанию. 
